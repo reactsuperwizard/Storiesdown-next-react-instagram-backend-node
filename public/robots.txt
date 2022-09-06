@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Disallow: /
