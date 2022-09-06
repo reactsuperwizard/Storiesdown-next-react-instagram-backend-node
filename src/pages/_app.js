@@ -14,5 +14,5 @@ function App({ Component, pageProps }) {
   }, []);
   return <Component {...pageProps} />;
 }
-// export default App;
+
 export default withGA('UA-169731965-1', Router)(App);
