@@ -5,7 +5,7 @@ import Router from 'next/router';
 import withGA from 'next-ga';
 import TagManager from 'react-gtm-module';
 import { useEffect } from 'react';
-// sdgsdgsdgsdgsdg
+// ssdgdgdg
 function App({ Component, pageProps }) {
   useEffect(() => {
     TagManager.initialize({
